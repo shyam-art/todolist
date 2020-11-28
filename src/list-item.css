@@ -1,0 +1,18 @@
+#remove{
+    float: right;
+    border:0px;
+  background-color: #27282b;
+  color: rgb(200,1,240);
+
+}
+#listitem{
+    color: white;
+}
+#content{
+    align-items: flex-start;
+}
+#text{
+    max-width: 700px;
+    word-wrap: break-word;
+    float: left;
+}
